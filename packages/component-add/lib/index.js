@@ -251,6 +251,18 @@ eval("var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn th
 
 /***/ }),
 
+/***/ "./src/images/logo.svg":
+/*!*****************************!*\
+  !*** ./src/images/logo.svg ***!
+  \*****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"103b5fa18196d5665a7e12318285c916.svg\");\n\n//# sourceURL=webpack:///./src/images/logo.svg?");
+
+/***/ }),
+
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
@@ -259,7 +271,7 @@ eval("var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn th
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _add; });\n/* harmony import */ var lodash_add__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash/add */ \"../../node_modules/lodash/add.js\");\n/* harmony import */ var lodash_add__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash_add__WEBPACK_IMPORTED_MODULE_0__);\n\nfunction _add(a, b) {\n  return lodash_add__WEBPACK_IMPORTED_MODULE_0___default()(a, b);\n}\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var lodash_add__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash/add */ \"../../node_modules/lodash/add.js\");\n/* harmony import */ var lodash_add__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash_add__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _images_logo_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/logo.svg */ \"./src/images/logo.svg\");\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (lodash_add__WEBPACK_IMPORTED_MODULE_0___default.a);\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 

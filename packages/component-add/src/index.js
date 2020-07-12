@@ -1,5 +1,4 @@
 import add from "lodash/add";
+import Logo from  './images/logo.svg';
 
-export default function _add(a, b) {
-  return add(a, b);
-}
+export default add;

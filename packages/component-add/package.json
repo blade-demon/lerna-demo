@@ -1,5 +1,5 @@
 {
-  "name": "component-add",
+  "name": "@ziwei/component-add",
   "version": "1.0.1",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -26,5 +26,6 @@
   "homepage": "https://github.com/blade-demon/lerna-demo#readme",
   "dependencies": {
     "lodash": "^4.17.19"
-  }
+  },
+  "gitHead": "fe0c98c867ea1056b0e4e7b140723420765b37cd"
 }

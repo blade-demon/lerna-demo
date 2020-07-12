@@ -1,5 +1,5 @@
 {
-  "name": "@ziwei/component-sub",
+  "name": "@blade-demon/component-sub",
   "version": "1.0.4",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -27,5 +27,5 @@
   "dependencies": {
     "lodash": "^4.17.19"
   },
-  "gitHead": "c34abb9bdd93ffbd93fe2df878caad815d876ca0"
+  "gitHead": "baff87d98d53f8c67cd942376acb597b2bde904d"
 }

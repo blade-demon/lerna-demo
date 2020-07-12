@@ -27,5 +27,8 @@
   "dependencies": {
     "lodash": "^4.17.19"
   },
-  "gitHead": "baff87d98d53f8c67cd942376acb597b2bde904d"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "fc9018518f01d139d627c4657e9900552a502a50"
 }

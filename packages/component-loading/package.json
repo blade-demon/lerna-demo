@@ -37,5 +37,9 @@
     "style-loader": "^1.2.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "6060d12943c50bd00c57349ef7410c20770b20ba"
 }

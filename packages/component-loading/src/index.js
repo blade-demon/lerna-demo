@@ -4,7 +4,7 @@ import "./index.css";
 
 export default function Loading() {
   return (
-    <div className="loading">
+    <div className="Loading">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </header>

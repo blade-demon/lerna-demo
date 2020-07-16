@@ -7,6 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, "lib"),
     filename: "component-loading.js",
     libraryTarget: "umd",
+    library: ""
   },
   module: {
     rules: [

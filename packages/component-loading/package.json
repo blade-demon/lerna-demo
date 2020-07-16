@@ -5,7 +5,7 @@
   "keywords": [],
   "author": "ziwei <xuziwei89@gmail.com>",
   "license": "ISC",
-  "main": "lib/index.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -41,5 +41,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "6060d12943c50bd00c57349ef7410c20770b20ba"
+  "gitHead": "6060d12943c50bd00c57349ef7410c20770b20ba",
+  "dependencies": {}
 }

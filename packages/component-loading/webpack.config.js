@@ -5,7 +5,8 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "lib"),
-    filename: "index.js",
+    filename: "component-loading.js",
+    libraryTarget: "umd",
   },
   module: {
     rules: [

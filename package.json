@@ -4,7 +4,8 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "lerna": "^3.22.1",
+    "svg-url-loader": "^6.0.0"
   },
   "dependencies": {
     "react": "^16.13.1",

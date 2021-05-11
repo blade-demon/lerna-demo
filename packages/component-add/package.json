@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/blade-demon/lerna-demo#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "publishConfig": {
     "access": "public"
